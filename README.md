@@ -6,7 +6,7 @@ get the current crypto price of any coin
 #### 1. Install
 
 ```bash
-$ git clone https://github.com/devincapriola/crypto-price.git
+$ git clone https://github.com/devincapriola/crypto-price-finder.git
 ```
 
 #### 2. run
